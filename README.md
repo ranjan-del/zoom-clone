@@ -159,7 +159,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 }
 
 .str-video__participant-details {
-  color: white;
+  color: black;
 }
 
 .str-video__menu-container {
