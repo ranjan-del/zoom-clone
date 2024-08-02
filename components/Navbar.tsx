@@ -12,14 +12,14 @@ const Navbar = () => {
           src="/icons/logo.svg"
           width={32}
           height={32}
-          alt="yoom logo"
+          alt="zoom logo"
           className="max-sm:size-10"
         />
-        <p className="text-[26px] font-extrabold text-white max-sm:hidden">
-          YOOM
+        <p className="text-[26px] font-extrabold text-blue-1 max-sm:hidden">
+          ZOOM
         </p>
       </Link>
-      <div className="flex-between gap-5">
+      <div className="flex-between gap-5" >
         <SignedIn>
           <UserButton afterSignOutUrl="/sign-in" />
         </SignedIn>

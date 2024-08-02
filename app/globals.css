@@ -56,7 +56,7 @@
 /* ==== clerk class override ===== */
 
 .cl-userButtonPopoverActionButtonIcon {
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .cl-logoBox {
@@ -75,7 +75,7 @@
   color: white;
 }
 .cl-userButtonPopoverActionButton {
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 /* =============================== */
